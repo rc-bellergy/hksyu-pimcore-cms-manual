@@ -1,9 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-- Getting Started
-  - [Introduction](/)
+- [**Getting Started**](/)
     
-- Basic
+- [**Basic**](basic/)
   - [Login](basic/login.md)
   - [Interface](basic/interface.md)
   - [Search](basic/search.md)
