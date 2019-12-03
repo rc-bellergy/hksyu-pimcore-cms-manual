@@ -26,6 +26,15 @@ Current project is using version docsify-cli@4.4.0
 
     docsify serve docs
 
+## Install docsify-sidebar-collapse Plugin
+
+    docsify-sidebar-collapse
+
+Add it to index.html
+```html
+    <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js">
+```
+
 
 ---
 ## Initialize Firebase
@@ -56,6 +65,9 @@ Back to Terminal, logout your current Google account then login to the project g
     > Hosting: Configure and deploy Firebase Hosting sites
     > Select the project you created in the Firebase    
 
+Edit the firebase.json
+
+    "public": "docs",
 
 ## Deploy to Firebase
 After login, you can deploy the document to Firebase

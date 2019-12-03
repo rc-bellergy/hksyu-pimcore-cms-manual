@@ -17,19 +17,23 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
-      },
       name: '',
       repo: '',
       auto2top: true,
       loadSidebar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      subMaxLevel: 3,
       logo: '/images/dq-logo.png',
+      formatUpdated: '{YYYY}-{MM}-{DD}'
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 
   <!-- plugins -->
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js">
+
 </body>
 </html>
