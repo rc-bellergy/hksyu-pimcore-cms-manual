@@ -6,20 +6,20 @@
   - [Login](basic/login.md)
   - [Interface](basic/interface.md)
   - [Search](basic/search.md)
+  - [Versioning](basic/versioning.md)
+  - [Scheduling](basic/scheduling.md)
   - [Recycle Bin](basic/recycle-bin.md)
   - [Cache](basic/cache.md)
   
-- Documents
-  - [About Documents](documents/basic.md)
+- [**Documents**](documents/)
   - [Tree Menu](documents/tree-menu.md)
   - [Content Blocks](documents/content-blocks.md)
   - [SEO Document Editor](documents/seo-document-editor.md)
+  - [Snippets](documents/snippets.md)    
   
-- Assets
-  - [About Assests](assets/basic.md)
+- [**Assets**](assets/)
 
-- Data Objects
-  - [About Data Objects](data-objects/basic.md)
+- [**Data Objects**](data-objects/)
   - [Import/Export Objects](data-objects/import-export.md)
   - [SlideBanner](data-objects/slidebanner.md)
   - [News](data-objects/news.md)
@@ -27,12 +27,10 @@
   - [Staffs](data-objects/staffs.md)
   - [Gallery](data-objects/gallery.md)
   
-- Forms
-  - [About FormBuilder](forms/formbuilder.md)
+- [**Forms**](forms/)
 
-- Emails
-  - [About Email Templates](emails/email-templates.md)
+- [**Emails**](emails/)
 
-- Administration
+- [**Administration**](administration/)
   - [Users and Roles](administration/users.md)
   - [Websites Management](administration/websites.md)
