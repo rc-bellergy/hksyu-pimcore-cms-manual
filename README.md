@@ -56,6 +56,7 @@ Back to Terminal, logout your current Google account then login to the project g
     > Hosting: Configure and deploy Firebase Hosting sites
     > Select the project you created in the Firebase    
 
+
 ## Deploy to Firebase
 After login, you can deploy the document to Firebase
 
