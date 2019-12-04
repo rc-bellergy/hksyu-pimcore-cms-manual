@@ -12,7 +12,7 @@
   - [Cache](basic/cache.md)
   
 - [**Documents**](documents/)
-  - [Tree Menu](documents/tree-menu.md)
+  - [Documents Menu](documents/tree-menu.md)
   - [Content Blocks](documents/content-blocks.md)
   - [SEO Document Editor](documents/seo-document-editor.md)
   - [Snippets](documents/snippets.md)
