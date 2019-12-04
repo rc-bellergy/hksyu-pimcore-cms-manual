@@ -1,15 +1,15 @@
 # Interface of the CMS 
 
-- [Sidebar](sidebar)
+- [Sidebar](#sidebar)
     - [Quick Open Document / Asset / Data Object](#quick-open-document-asset-data-object)
     - [Translation](#translation)
     - [Recycle bin](#recycle-bin)
     - [Search Engine Optimization](#search-engine-optimization)
     - [Cache](#cache)
     - [Search](#search)
-- [Panel Tree](panel-tree)
-- [Toolbar](toolbar)
-- [Tabbar](tabbar)
+- [Panel Tree](#panel-tree)
+- [Toolbar](#toolbar)
+- [Tabbar](#tabbar)
 
 ![](images/b01-1.png)  
 
