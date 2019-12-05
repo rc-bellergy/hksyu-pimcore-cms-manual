@@ -193,11 +193,54 @@ Right Click on the asset
 
 ## Toolbar
 
-There are highlight features in the Toolbar.
+### Functional icon
 
+| Functions              	| Descriptions                                                                                                                        	|
+|------------------------	|-------------------------------------------------------------------------------------------------------------------------------------	|
+| ![](images/b201.png)   	| It can access publicly.                                                                                                             	|
+| ![](images/b201.1.png) 	| Only store the data.                                                                                                                	|
+| ![](images/b202.png)   	| It can access in preview mode only.                                                                                                 	|
+| ![](images/b203.png)   	| Remove it. [Click here](#recycle-bin)                                                                                               	|
+| ![](images/b204.png)   	| Rename it. [Click here](#operation)                                                                                                 	|
+| ![](images/b205.png)   	| Reload it.<br>Sometimes, there are multi-editor modify in the same file. It can get the latest version when it saved by the partner 	|
+| ![](images/b206.png)   	| Jump to the panel tree. [Click here](#show-in-tree)                                                                                 	|
+| ![](images/b207.png)   	| Access via Public Mode                                                                                                              	|
+| ![](images/b208.png)   	| Access via Preview Mode                                                                                                             	|
 
+If the file changed to unpublish, 
+the file name will be strikethrough in the panel tree and provided the `Save` button in the toolbar.
+
+![](images/b201.2.png)
+
+### Show in Tree
+
+Open and locate it into the panel tree after clicking the it.
+
+![](images/b209.png)
+
+### Get the file's ID
+
+Every Document / Asset / Data Object has its own ID.
+
+The editor can hover the file and it shows the ID and the type.  
+or  
+It shows on the toolbar.
+
+![](images/b210.png)
 
 
 ## Tabbar
 
-There are highlight features in the Tabbar.
+The tabbar is depend on the file type.
+
+### Tabbar of Documents
+
+> For more information of Documents, please [click here](documents/)  
+
+### Tabbar of Assets
+
+> For more information of Assets, please [click here](assets/)  
+
+### Tabbar of Data Objects
+
+> For more information of Data Objects, please [click here](data-objects/)  
