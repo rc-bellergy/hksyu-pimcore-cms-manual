@@ -14,6 +14,8 @@ You can change **Accordion** settings according to the image below:
 The **EventsList** content block will read the [Events Objects](/data-objects/events) and uses the following page layout to display them as a events index. 
 ![](images/26.jpg)
 
+### Update Events List
+
 Following the image below to add the events to the **EventsList**
 ![](images/25.jpg)
 
@@ -53,15 +55,29 @@ The **News and Events** content block will read the first 4 [Events Objects](/da
 
 ![](images/35.jpg)
 
+### Update the News and Events List
 1. Click the <image src="documents/images/30.jpg" class="inline-img"> to setup the source of news and events
-![](images/33.jpg)
+    ![](images/33.jpg)
 
 2. Drag and drop the news folder and events folder to the input fields then click save.
 > Note: You must save event objects to events folder and news objects to news folder.
  
-![](images/34.jpg)
+    ![](images/34.jpg)
+
 
 ## News List
+The **News** content block will read the [News Objects](/data-objects/news) then uses the following page layout to display them.
+
+![](images/38.jpg)
+
+### Update the News List
+1. Click the <image src="documents/images/30.jpg" class="inline-img"> to add/update the source of news
+![](images/36.jpg)
+
+2. Drag and drop the news folder and events folder to the input fields then click save.
+    > Note: You must save news objects to news folder.
+
+    ![](images/37.jpg)
 
 ## Photo Wall
 
