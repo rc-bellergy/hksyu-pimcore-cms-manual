@@ -30,7 +30,7 @@ The editor can enter the file’s ID or the path (also full path) to open the fi
 | ![](images/b04.png) 	| ![](images/b05.png) 	|
 |:-------------------:	|:-------------------:	|
 
-> How to find the file’s ID, please [click here](#LINK_TO)  
+> How to find the file’s ID, please [click here](#get-the-file39s-id)  
 
 > To search by keywords, please [click here](#search)
 
@@ -57,7 +57,7 @@ All the files were sent to recycle bin when they were deleted.
 
 ![](images/b08.png)
 
-> How to detele the file, please [click here](#LINK_TO)  
+> How to detele the file, please [click here(panel tree)](#operation) or [click here(toolbar)](#functional-icon)  
 
 > For more information on operation in recycle bin, please [click here](basic/recycle-bin)
 
