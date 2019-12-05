@@ -28,15 +28,6 @@ The following HKSYU faculties and departments websites are under the CMS managem
 - Graduate School
 
 ---
-## About the Pimcore CMS
-
-This CMS was developed by [Design Quest Limited](https://designquest.com.hk) based on the [Pimcore](https://pimcore.com/) open source content management system (v6.x).
-
-This documents only include instructions that are directly related to the HKSYU websites management. If you need to know more in-depth systems and operations, you can refer to the official Pimcore [documents](https://pimcore.com/docs/6.x/Development_Documentation/).
-
-![](basic/images/02.jpg)
-
----
 ## About Design Quest
 
 > This document was created by [Design Quest Limited](https://designquest.com.hk). If you have any questions or comments, please feel free to contact us: info@designquest.com.hk
