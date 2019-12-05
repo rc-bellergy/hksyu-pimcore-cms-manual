@@ -1,15 +1,7 @@
 # Interface of the CMS 
 
-- [Sidebar](#sidebar)
-    - [Quick Open Document / Asset / Data Object](#quick-open-document-asset-data-object)
-    - [Translation](#translation)
-    - [Recycle bin](#recycle-bin)
-    - [Search Engine Optimization](#search-engine-optimization)
-    - [Cache](#cache)
-    - [Search](#search)
-- [Panel Tree](#panel-tree)
-- [Toolbar](#toolbar)
-- [Tabbar](#tabbar)
+4 sections in the area of the interface.  
+There are [Sidebar](#sidebar), [Panel Tree](#panel-tree), [Toolbar](#toolbar) , [Tabbar](#tabbar).
 
 ![](images/b01-1.png)  
 
@@ -131,7 +123,7 @@ Quick Search(All)
 
 ![](images/b17.png)
 
-Search Document / Assets / Data Object
+Search Document / Assets / Data Objects
 
 ![](images/b18.png)
 
@@ -141,7 +133,62 @@ Search Document / Assets / Data Object
 
 ## Panel Tree
 
+### Operation{docsify-ignore}
+There are 3 sections which are [Documents](#_1-operation-of-documents), [Assets](#_2-operation-of-assets), [Data Objects](#_3-operation-of-data-objects)
 
+Left Click: Open the tree or Open the file  
+Right Click: Operation on this file
+
+Here is the highlighting those most commonly operation. Please browse the relative section for any further information.
+
+### 1. Operation of Documents
+
+![](images/b101.png)
+
+
+| <div style="width:160px">Functions</div>                                         	| Descriptions                                                                                                                                                                                                                                	|
+|---------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| ![](images/b101.1.png)                            	| To change the name in the navigation and the title in the browser tab, you must open the document. In the [`SEO & Settings`](documents/settings) tab, you can adjust the title in the browser tab. Switch to the [`Navigation & Properties`](documents/properties) tab to change the name in the navigation. 	|
+| ![](images/b101.3.png)<br> ![](images/b101.2.png) 	| Publish: <br>Everyone can access this file or link in any mode.<br><br>Unpublish: <br>Only the website holder can access this file or link in preview mode.                                                                                 	|
+
+> For more information of Documents, please [click here](documents/)  
+
+### 2. Operation of Assets
+
+In assets of the panel tree, there are function lists depends on the item.
+
+Right Click on the folder
+![](images/b102.png)
+
+Right Click on the asset  
+![](images/b102.2.png)
+
+| Functions                                         	| Descriptions                                                                               	|
+|---------------------------------------------------	|--------------------------------------------------------------------------------------------	|
+| ![](images/b101.1.png)                            	| The file path will be changed*                                                              	|
+| ![](images/b102.1.png)<br> ![](images/b102.4.png) 	| On the folder: <br>Download the whole directory<br><br>On the asset:<br>Download this file 	|
+| ![](images/b102.3.png)                            	| Replace the assets with same name and URL**                                                   	|
+
+> Rename  
+* If the file is dragged on the document / Data object, Pimcore can update the file path automatically.  
+* If the file is just copied the path (Hardcoded) on the document / Data object or share the URL, Pimcore does not redirect this file with the new name.
+
+> Upload new version  
+* Sometime the file is kept in cache, please [click here](#cache) to know about how to clear cache
+
+> For more information of Assets, please [click here](assets/)  
+
+### 3. Operation of Data Objects
+
+![](images/b103.png)
+
+
+> ![](images/b101.1.png) <br>
+* Make sure the type of data object in the directory which is created by non-system(Editor, Administrator, Website holder...) or allow to edit it before renaming it.  
+* Most of the cases, do not rename the folder. The reason is some components or programs are depending on the folder name.
+
+
+> For more information of Data Objects, please [click here](data-objects/)  
 
 
 ## Toolbar
@@ -151,6 +198,6 @@ There are highlight features in the Toolbar.
 
 
 
-### Tabbar
+## Tabbar
 
 There are highlight features in the Tabbar.
