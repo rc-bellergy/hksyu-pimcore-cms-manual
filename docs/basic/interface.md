@@ -7,9 +7,7 @@ There are [Sidebar](#sidebar), [Panel Tree](#panel-tree), [Toolbar](#toolbar) , 
 
 Introducing most commonly feature in each of these areas.
 
-
-
-
+---
 ## Sidebar
 
 There are six areas that you use commonly in sidebar.
@@ -19,129 +17,18 @@ There are six areas that you use commonly in sidebar.
 ![](images/b02.png ':size=150x')
 
 
-
-### Quick Open Document / Asset / Data Object
-
-![](images/b03.png)
-
-The editor can enter the file’s ID or the path (also full path) to open the file(Document / Assets / URL).
-
-
-| ![](images/b04.png) 	| ![](images/b05.png) 	|
-|:-------------------:	|:-------------------:	|
-
-> How to find the file’s ID, please [click here](#get-the-file39s-id)  
-
-> To search by keywords, please [click here](#search)
-
-
-### Translation
-
-If your website supports multi-languages, Pimcore provides an easy way for editors to edit commonly used translation terms across the application, such as non-article,  which can be found here:  
-
-`Tools` > `Translations` > `Shared Translations`.
-
-![](images/b06.png)
-
-![](images/b07.png)
-
-(Available languages are defined within the system languages)
-
-> How to translate the article, please [click here](data-objects)
-
-
-
-### Recycle bin
-
-All the files were sent to recycle bin when they were deleted.
-
-![](images/b08.png)
-
-> How to detele the file, please [click here(panel tree)](#operation) or [click here(toolbar)](#functional-icon)  
-
-> For more information on operation in recycle bin, please [click here](basic/recycle-bin)
-
-
-
-### Search Engine Optimization
-
-![](images/b12.1.png)
-
-SEO stands for "Search Engine Optimization". It repetitive process used to send signals to search engines that your website is worth being listed in Google's index.
-
-The editor can make further SEO relevant settings for each Pimcore document. 
-
-Two places that the editor can make SEO setting:
-
-- **For Global Pimcore Document in the sidebar**  
-`Tools` > `Search Engine Optimiztion` > `SEO Document Editor`
-
-![](images/b10.png)
-
-Double click the document.
-
-![](images/b11.png)
-
-Edit the "Title" and "Description" and click the "Save" button
-
-![](images/b12.png)
-
-- **For Each Pimcore Ddocument in the panel tree**   
-`Open the desired document` > `navigate to the "SEO & Settings" tab`
-
-![](images/b12.2.png)
-
-At the top of this tab is the "Title & Description" section. Title and description must always be filled in, whereby HTML tags are to be regarded as optional. The title describes the page in one or a few words and the description summarizes the content of the page briefly and concisely. The title should not exceed a character length of 60 characters and the character length of the description should not pass the mark 170.
-
-**About Pretty URL** 
-
-The Pretty URL setting overrides a document's full path only for the purpose of routing. This is useful for when you would like to create shorter paths or friendly URLs for sharing. A Pretty URL does not redirect to the original URL.
-
-Here is example.  
-Original URL: https://demo.com/about/our-story/aticle/123
-
-Fill the "our-story-123" in pretty url field.
-
-Pretty URL: https://demo.com/our-story-123
-
-### Cache
-
-Pimcore uses extensively caches for differently types of data. The primary cache is a pure object cache where every element (document, asset, object) in Pimcore is cached as it is (serialized objects). Every cache item is tagged with dependencies so the system is able to evict dependent objects if a referenced object changes.
-
-
-![](images/b13.png)
-
-> For more information on operation in cache section, please [click here](basic/cache)
-
-### Search
-
-The editor can search by Quick Search (All) / Document / Assets / Data Object
-
-Quick Search(All)
-
-![](images/b16.png)
-
-![](images/b17.png)
-
-Search Document / Assets / Data Objects
-
-![](images/b18.png)
-
-![](images/b19.png)
-
-> For more information on operation in search, please [click here](basic/search)
-
+---
 ## Panel Tree
 
 ### Operation{docsify-ignore}
-There are 3 sections which are [Documents](#_1-operation-of-documents), [Assets](#_2-operation-of-assets), [Data Objects](#_3-operation-of-data-objects)
+There are 3 sections which are [Documents](#operation-of-documents), [Assets](#operation-of-assets), [Data Objects](#operation-of-data-objects)
 
 Left Click: Open the tree or Open the file  
 Right Click: Operation on this file
 
 Here is the highlighting those most commonly operation. Please browse the relative section for any further information.
 
-### 1. Operation of Documents
+### Operation of Documents
 
 ![](images/b101.png)
 
@@ -153,7 +40,7 @@ Here is the highlighting those most commonly operation. Please browse the relati
 
 > For more information of Documents, please [click here](documents/)  
 
-### 2. Operation of Assets
+### Operation of Assets
 
 In assets of the panel tree, there are function lists depends on the item.
 
@@ -174,11 +61,12 @@ Right Click on the asset
 * If the file is just copied the path (Hardcoded) on the document / Data object or share the URL, Pimcore does not redirect this file with the new name.
 
 > Upload new version  
-* Sometime the file is kept in cache, please [click here](#cache) to know about how to clear cache
+* Sometime the file is kept in cache, please [click here](basic/cache) to know about how to clear cache
+* Want to Rollback? Please [click here](basic/versioning)
 
 > For more information of Assets, please [click here](assets/)  
 
-### 3. Operation of Data Objects
+### Operation of Data Objects
 
 ![](images/b103.png)
 
@@ -190,11 +78,8 @@ Right Click on the asset
 
 > For more information of Data Objects, please [click here](data-objects/)  
 
-
+---
 ## Toolbar
-
-### Functional icon
-
 | Functions              	| Descriptions                                                                                                                        	|
 |------------------------	|-------------------------------------------------------------------------------------------------------------------------------------	|
 | ![](images/b201.png)   	| It can access publicly.                                                                                                             	|
@@ -211,6 +96,16 @@ If the file changed to unpublish,
 the file name will be strikethrough in the panel tree and provided the `Save` button in the toolbar.
 
 ![](images/b201.2.png)
+
+### Saving options
+* `Save, publish` saved all data including edit property, version, schedule, etc... 
+
+* `Save, publish and close` same `Save, publish` and close the tab
+
+* `Only save new version` saved only version
+
+* `Save only scheduled tasks` saved only schedule
+
 
 ### Show in Tree
 
@@ -229,18 +124,13 @@ It shows on the toolbar.
 ![](images/b210.png)
 
 
+---
 ## Tabbar
 
 The tabbar is depend on the file type.
 
-### Tabbar of Documents
-
 > For more information of Documents, please [click here](documents/)  
 
-### Tabbar of Assets
-
 > For more information of Assets, please [click here](assets/)  
-
-### Tabbar of Data Objects
 
 > For more information of Data Objects, please [click here](data-objects/)  

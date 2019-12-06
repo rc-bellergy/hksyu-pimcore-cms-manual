@@ -10,6 +10,9 @@
   - [Scheduling](basic/scheduling.md)
   - [Recycle Bin](basic/recycle-bin.md)
   - [Cache](basic/cache.md)
+  - [Search Engine Optimization](basic/search-engine-optimization.md)
+  - [Translation](basic/translation.md)
+
   
 - [**Documents**](documents/)
   - [Documents Menu](documents/tree-menu.md)

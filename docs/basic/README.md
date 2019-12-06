@@ -30,3 +30,5 @@ In addition to the above three major sections, here are some features to help yo
 | [Scheduling](basic/scheduling.md)   | How to publish/unpublish the contents?                     |
 | [Recycle Bin](basic/recycle-bin.md) | How to recover deleted files?                              |
 | [Cache](basic/cache.md)             | How to clear server side cache to update website contents? |
+| [Search Engine Optimization](basic/search-engine-optimization)| How to declare or define the website for search engine? |
+| [Translation](basic/translation.md) | How to update the interface text in multi-language? |
