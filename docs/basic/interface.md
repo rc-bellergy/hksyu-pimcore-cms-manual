@@ -214,7 +214,7 @@ the file name will be strikethrough in the panel tree and provided the `Save` bu
 
 ### Show in Tree
 
-Open and locate it into the panel tree after clicking the it.
+Open and locate it into the panel tree after clicking it.
 
 ![](images/b209.png)
 
