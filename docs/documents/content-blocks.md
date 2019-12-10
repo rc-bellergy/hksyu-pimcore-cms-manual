@@ -14,12 +14,17 @@ You can change **Accordion** settings according to the image below:
 The **EventsList** content block will read the [Events Objects](/data-objects/events) and uses the following page layout to display them as a events index. 
 ![](images/26.jpg)
 
-### Update Events List
 
-Following the image below to add the events to the **EventsList**
+
+### Craete/update Events List
+
+1. Click the <image src="documents/images/30.jpg" class="inline-img"> to add/update the source of events
+
+2. Drag and drop the folder containing **Event** objects into the input fields then click save.
+
 ![](images/25.jpg)
 
-For how to carete/edit **Events Object**, please see [here](/data-objects/events).
+
 
 ## Form
 The **Form** content block will read the [Forms](/forms/) from the FormBuilder and uses the following page layout to display it. 
@@ -28,7 +33,8 @@ The **Form** content block will read the [Forms](/forms/) from the FormBuilder a
 1. Click the <image src="documents/images/30.jpg" class="inline-img"> to setup the form
 ![](images/27.jpg)
 
-2. 
+
+2. Input the fields
 ![](images/28.jpg)
 
 ## HTML Editor
@@ -55,35 +61,66 @@ The **News and Events** content block will read the first 4 [Events Objects](/da
 
 ![](images/35.jpg)
 
-### Update the News and Events List
+### Craete/update the News and Events List
 1. Click the <image src="documents/images/30.jpg" class="inline-img"> to setup the source of news and events
     ![](images/33.jpg)
 
-2. Drag and drop the news folder and events folder to the input fields then click save.
-> Note: You must save event objects to events folder and news objects to news folder.
+2. Drag and drop the folders containing **News** objects and **Events** object into the input fields then click save.
  
     ![](images/34.jpg)
 
-
 ## News List
-The **News** content block will read the [News Objects](/data-objects/news) then uses the following page layout to display them.
+The **News** content block will read the [News Objects](/data-objects/news) in the folder and uses the following page layout to display them.
 
 ![](images/38.jpg)
 
-### Update the News List
+### Craete/update the News List
 1. Click the <image src="documents/images/30.jpg" class="inline-img"> to add/update the source of news
 ![](images/36.jpg)
 
-2. Drag and drop the news folder and events folder to the input fields then click save.
-    > Note: You must save news objects to news folder.
+2. Drag and drop the folder containing **News** objects into the input fields then click save.
 
     ![](images/37.jpg)
 
 ## Photo Wall
+The **Photo Wall** content block will read the [Gallery Objects](/data-objects/gallery) in the folder and uses the following page layout to display them.
+
+![](images/41.jpg)
+
+### Craete/update the Photo Wall
+1. Click the <image src="documents/images/30.jpg" class="inline-img"> to add/update the source of photos
+    ![](images/39.jpg)
+
+2. Drag and drop the folder containing **Gallery** objects into the input fields then click save.
+
+    ![](images/40.jpg)
+
 
 ## Popup Window
+The **Popup Window** content block will create a popup window in the page as below:
 
-## Slide Banner 
+![](images/43.jpg)
+
+### Craete/update the Popup Window
+1. Add content to **Modal Content** input field
+
+2. Checked the **Auto show when get into the page**, if you want the window will auto popup.
+
+    ![](images/42.jpg)
+
+
+## Slide Banner
+The **Slide Banner** content block will read the [SlideBanner Objects](/data-objects/slidebanner) in the folder and uses the following page layout to display them.
+
+![](images/46.jpg)
+
+### Craete/update the Slide Banner
+1. Click the <image src="documents/images/30.jpg" class="inline-img"> to add/update the source of slide banners
+    ![](images/44.jpg)
+
+2. Drag and drop the folder containing **SlideBanner** objects into the input fields then click save.
+
+    ![](images/45.jpg)
 
 ## Slide Gallery
 

@@ -29,8 +29,12 @@ The following HKSYU faculties and departments websites are under the CMS managem
 
 ---
 ## About Design Quest
-
 > This document and CMS was created by [Design Quest Limited](https://designquest.com.hk). If you have any questions or comments, please feel free to contact us: info@designquest.com.hk
 
+<a href="https://designquest.com.hk"><img src="_images/dq-logo.png" style="max-width:250px;"></a>
+
+
+---
+## Document Update
 > Created: 2019-12-03<br>
 > Updated: {docsify-updated}
