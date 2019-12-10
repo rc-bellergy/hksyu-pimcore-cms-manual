@@ -1,7 +1,5 @@
 # SlideBanner
 
-![](images/slide01.1.png)
-
 ## Create a new slide banner
 
 Go to `Data Objects` > `Your directory` > `slide-banner` > `home` , then right click ` Add Object` > `SlideBanner`
@@ -27,6 +25,8 @@ The slide order depends on the created date. The editor can enter the value numb
 
 * **Link**  
 Please enter the absolute path (http://...)
+
+![](images/slide01.1.png)
 
 Then, Click the `Save & Publish`.
 
