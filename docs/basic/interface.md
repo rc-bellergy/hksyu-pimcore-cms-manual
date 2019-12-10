@@ -85,7 +85,7 @@ Right Click on the asset
 | ![](images/b201.png)   	| It can access publicly.                                                                                                             	|
 | ![](images/b201.1.png) 	| Only store the data.                                                                                                                	|
 | ![](images/b202.png)   	| It can access in preview mode only.                                                                                                 	|
-| ![](images/b203.png)   	| Remove it. [Click here](#recycle-bin)                                                                                               	|
+| ![](images/b203.png)   	| Remove it. [Click here](basic/recycle-bin)                                                                                               	|
 | ![](images/b204.png)   	| Rename it. [Click here](#operation)                                                                                                 	|
 | ![](images/b205.png)   	| Reload it.<br>Sometimes, there are multi-editor modify in the same file. It can get the latest version when it saved by the partner 	|
 | ![](images/b206.png)   	| Jump to the panel tree. [Click here](#show-in-tree)                                                                                 	|
