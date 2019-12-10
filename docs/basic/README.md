@@ -9,7 +9,7 @@ This CMS was developed by [Design Quest Limited](https://designquest.com.hk) bas
 Please note that this documents only include instructions that are directly related to the HKSYU websites management. If you want to know more in-depth systems and operations of the Pimcore, you can refer to the official Pimcore [documents](https://pimcore.com/docs/6.x/Development_Documentation/).
 
 ---
-## The Basic
+## The major sections of CMS
 
 Pimcore divides the contents to be managed into 3 major sections: [**Documents**](documents/), [**Assets**](assets/) and [**Data Objects**](data-objects/).
 
@@ -19,12 +19,16 @@ Pimcore divides the contents to be managed into 3 major sections: [**Documents**
 | [Assets](assets/)             | Use assets to manage images and downloadable files (e.g. PDF, ZIP files etcs) |
 | [Data Objects](data-objects/) | Use data object to manage the structured data (e.g. news, events, staffs etc.) |
 
+## The CMS Interface
+
+[Introduction to the CMS interface](basic/interface.md)
+
+## Assistant features
 In addition to the above three major sections, here are some features to help you manage your website more conveniently.
 
 | Subjects                            | Descriptions                                               |
 | ----------------------------------- | ---------------------------------------------------------- |
 | [Login](basic/login.md)             | Login to the CMS                                           |
-| [Interface](basic/interface.md)     | Introduction to the CMS interface                          |
 | [Search](basic/search.md)           | How to find contents in the CMS?                           |
 | [Versioning](basic/versioning.md)   | How to rollback the modification?                          |
 | [Scheduling](basic/scheduling.md)   | How to publish/unpublish the contents?                     |
