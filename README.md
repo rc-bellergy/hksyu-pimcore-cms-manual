@@ -35,6 +35,9 @@ Add it to index.html
     <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js">
 ```
 
+## Install Lunr search plugin
+[Lunr search for docsify.js](https://github.com/kiwicom/docsify-lunr-search)
+
 
 ---
 ## Initialize Firebase
