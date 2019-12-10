@@ -28,7 +28,7 @@ Current project is using version docsify-cli@4.4.0
 
 ## Install docsify-sidebar-collapse Plugin
 
-    docsify-sidebar-collapse
+    npm i docsify-sidebar-collapse --save
 
 Add it to index.html
 ```html
