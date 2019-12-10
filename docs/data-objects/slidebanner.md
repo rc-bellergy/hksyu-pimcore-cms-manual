@@ -1,5 +1,7 @@
 # SlideBanner
 
+![](images/slide01.1.png)
+
 ## Create a new slide banner
 
 Go to `Data Objects` > `Your directory` > `slide-banner` > `home` , then right click ` Add Object` > `SlideBanner`
