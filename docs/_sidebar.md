@@ -23,6 +23,14 @@
   - [Properties](documents/properties.md)
   
 - [**Assets**](assets/)
+  - [Upload Assets](assets/upload-assets.md)
+  - [Replace Asset](assets/replace-asset.md) 
+  - [Download Assets](assets/download-assets.md)
+  - [Custom Metadata](assets/custom-metadata.md)
+  - [Get the asset's info](assets/assets-info.md)
+  - [Batch processing](assets/batch-process.md)
+  - [Rollback and Restore](assets/version.md)
+  - [Scheduling](assets/schedule.md)
 
 - [**Data Objects**](data-objects/)
   - [SlideBanner](data-objects/slidebanner.md)
