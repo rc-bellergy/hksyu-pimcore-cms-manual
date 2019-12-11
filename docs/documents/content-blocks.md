@@ -16,7 +16,7 @@ The **EventsList** content block will read the [Events Objects](/data-objects/ev
 
 
 
-### Craete/update Events List
+#### Craete/update Events List
 
 1. Click the <image src="documents/images/30.jpg" class="inline-img"> to add/update the source of events
 
@@ -61,7 +61,7 @@ The **News and Events** content block will read the first 4 [Events Objects](/da
 
 ![](images/35.jpg)
 
-### Craete/update the News and Events List
+#### Craete/update the News and Events List
 1. Click the <image src="documents/images/30.jpg" class="inline-img"> to setup the source of news and events
     ![](images/33.jpg)
 
@@ -74,7 +74,7 @@ The **News** content block will read the [News Objects](/data-objects/news) in t
 
 ![](images/38.jpg)
 
-### Craete/update the News List
+#### Craete/update the News List
 1. Click the <image src="documents/images/30.jpg" class="inline-img"> to add/update the source of news
 ![](images/36.jpg)
 
@@ -87,7 +87,7 @@ The **Photo Wall** content block will read the [Gallery Objects](/data-objects/g
 
 ![](images/41.jpg)
 
-### Craete/update the Photo Wall
+#### Craete/update the Photo Wall
 1. Click the <image src="documents/images/30.jpg" class="inline-img"> to add/update the source of photos
     ![](images/39.jpg)
 
@@ -101,7 +101,7 @@ The **Popup Window** content block will create a popup window in the page as bel
 
 ![](images/43.jpg)
 
-### Craete/update the Popup Window
+#### Craete/update the Popup Window
 1. Add content to **Modal Content** input field
 
 2. Checked the **Auto show when get into the page**, if you want the window will auto popup.
@@ -114,7 +114,7 @@ The **Slide Banner** content block will read the [SlideBanner Objects](/data-obj
 
 ![](images/46.jpg)
 
-### Craete/update the Slide Banner
+#### Craete/update the Slide Banner
 1. Click the <image src="documents/images/30.jpg" class="inline-img"> to add/update the source of slide banners
     ![](images/44.jpg)
 
@@ -123,8 +123,32 @@ The **Slide Banner** content block will read the [SlideBanner Objects](/data-obj
     ![](images/45.jpg)
 
 ## Slide Gallery
+The **Slide Gallery** content block will read the [Gallery Objects](/data-objects/gallery) in the folder and uses the following page layout to display them.
+
+![](images/47.jpg)
+
+#### Craete/update the Slide Gallery
+1. Click the <image src="documents/images/30.jpg" class="inline-img"> to add/update the source of slide gallery
+    ![](images/49.jpg)
+
+2. Drag and drop the folder containing **Gallery** objects into the input fields then click save.
+
+    ![](images/48.jpg)
+
 
 ## Staff List
+The **StaffList** content block will read the [Staff Objects](/data-objects/staff) in the folder and uses the following page layout to display them.
+
+![](images/52.jpg)
+
+#### Craete/update the Staff List
+1. Click the <image src="documents/images/30.jpg" class="inline-img"> to add/update the source of Staff List
+    ![](images/51.jpg)
+
+2. Input the staff group name to Title input field<br>
+    Drag and drop the folder containing **Staff** objects into the Staffs Folder fields then click save.
+
+    ![](images/50.jpg)
 
 ## Table
 

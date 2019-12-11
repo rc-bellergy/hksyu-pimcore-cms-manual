@@ -14,7 +14,7 @@
 ![](images/13.jpg)
 
 ### Types of Content Page
-You can choose the types of Content Page below: 
+    You can choose the types of Content Page below: 
 
 **Content Page width side menu**
 ![](images/04.jpg)
@@ -37,10 +37,11 @@ Use it to copy a page or a folder of pages
 ![](images/09.jpeg)
 
 ## Paste
-It pastes the copied pages to a new folder.
+Use it to paste the copied folder/pages to a new folder.
 
 If you are copying a page, use **Paste as child**.<br>
 If you are copying a folder, use **Paste as child(recursive)**.
+
 ![](images/10.jpg)
 
 ## Publish and Unpublish page
