@@ -27,7 +27,7 @@ The **EventsList** content block will read the [Events Objects](/data-objects/ev
 
 
 ## Form
-The **Form** content block will read the [Forms](/forms/) from the FormBuilder and uses the following page layout to display it. 
+The **Form** content block will read the [Forms](/forms/) from the Form Builder and uses the following page layout to display it. 
 ![](images/29.jpg)
 
 1. Click the <image src="documents/images/30.jpg" class="inline-img"> to setup the form
