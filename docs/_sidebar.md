@@ -17,6 +17,8 @@
 - [**Documents**](documents/)
   - [Documents Menu](documents/tree-menu.md)
   - [Content Blocks](documents/content-blocks.md)
+  - [Snippets](documents/snippets.md)
+  - [Properties](documents/properties.md)
   
 - [**Assets**](assets/)
   - [Upload Assets](assets/upload-assets.md)
