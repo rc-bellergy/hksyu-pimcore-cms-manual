@@ -17,10 +17,6 @@
 - [**Documents**](documents/)
   - [Documents Menu](documents/tree-menu.md)
   - [Content Blocks](documents/content-blocks.md)
-  - [SEO Document Editor](documents/seo-document-editor.md)
-  - [Snippets](documents/snippets.md)
-  - [Settings](documents/settings.md)
-  - [Properties](documents/properties.md)
   
 - [**Assets**](assets/)
   - [Upload Assets](assets/upload-assets.md)
@@ -43,8 +39,5 @@
   
 - [**Forms**](forms/)
 
-- [**Emails**](emails/)
-
 - [**Administration**](administration/)
   - [Users and Roles](administration/users.md)
-  - [Websites Management](administration/websites.md)

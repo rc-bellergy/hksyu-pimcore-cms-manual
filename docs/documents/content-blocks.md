@@ -149,7 +149,3 @@ The **StaffList** content block will read the [Staff Objects](/data-objects/staf
     Drag and drop the folder containing **Staff** objects into the Staffs Folder fields then click save.
 
     ![](images/50.jpg)
-
-## Table
-
-## Text
