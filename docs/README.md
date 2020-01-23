@@ -2,6 +2,8 @@
 
 Welcome to the [HKSYU CMS](http://hksyu.dev.dq.hk/admin) user handbook. This document shows you how to use the CMS to manage the contents of HKSYU faculties And departments websites.
 
+**The original documet published to https://hksyu-cms.firebaseapp.com/**
+
 ![](basic/images/03.jpg)
 
 ## The HKSYU faculties and departments websites
