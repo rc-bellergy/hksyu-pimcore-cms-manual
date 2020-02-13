@@ -1,6 +1,7 @@
 {
     "[markdown]": {
         "editor.quickSuggestions": true
-    }
+    },
+    "python.pythonPath": "/Users/michael/Documents/Working-Copies/hksyu.departments/hksyu.departments.manual/_env/bin/python3.7"
 
 }
