@@ -2,7 +2,7 @@
 We use the MkDoc to create and manage this user manual.
 
 ## The document build with MkDoc
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+For full documentation visit [mkdocs.org](http://mkdocs.org).
 
 ## Install
 1. You need Python3

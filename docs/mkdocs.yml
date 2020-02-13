@@ -1,4 +1,9 @@
 site_name: HKSYU Departments Website CMS user manual
+site_url: https://designquest.com.hk/docs/hksyu-departments/
+site_description: "Welcome to the HKSYU CMS user handbook. This document shows you how to use the Pimcore CMS to manage the contents of HKSYU faculties And departments websites."
+site_author: https://designquest.com.hk
+copyright: "Design Quest Limited"
+google_analytics: ['UA-395198-1','designquest.com.hk']
 nav:
     - Home: index.md
     - Basic: 
