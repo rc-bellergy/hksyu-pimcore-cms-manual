@@ -18,9 +18,6 @@ nav:
         - Navigation & Properties: documents/properties.md
         - Content Blocks: documents/content-blocks.md
         - Snippets: documents/snippets.md
-        - Popup Content: documents/modal.md
-        - SEO Editor: documents/seo-document-editor.md
-        - Document Settings: documents/settings.md
     - Assets:
         - About Asets: assets/index.md
         - Upload Assets: assets/upload-assets.md
