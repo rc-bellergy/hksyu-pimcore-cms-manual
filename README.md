@@ -28,3 +28,7 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Deploying
+1.  `mkdocs build`
+2.  upload the site files to https://designquest.com.hk/docs/hksyu-departments/
