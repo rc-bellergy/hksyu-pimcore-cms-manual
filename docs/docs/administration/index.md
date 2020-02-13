@@ -6,5 +6,5 @@ It is not mandatory to use roles, permissions can be granted to users directly. 
 
 | Subjects | Descriptions |
 | -------- | ------------ |
-| [Users and Roles](administration/users.md) | How to create/manage the user |
-| [Website Managements](administration/websites.md) | How to create/manage the website setting |
+| [Users and Roles](users.md) | How to create/manage the user |
+| [Website Managements](websites.md) | How to create/manage the website setting |

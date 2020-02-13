@@ -21,18 +21,18 @@ Pimcore divides the contents to be managed into 3 major sections: [**Documents**
 
 ## The CMS Interface
 
-[Introduction to the CMS interface](basic/interface.md)
+[Introduction to the CMS interface](interface.md)
 
 ## Assistant features
 In addition to the above three major sections, here are some features to help you manage your website more conveniently.
 
 | Subjects                            | Descriptions                                               |
 | ----------------------------------- | ---------------------------------------------------------- |
-| [Login](basic/login.md)             | Login to the CMS                                           |
-| [Search](basic/search.md)           | How to find contents in the CMS?                           |
-| [Versioning](basic/versioning.md)   | How to rollback the modification?                          |
-| [Scheduling](basic/scheduling.md)   | How to publish/unpublish the contents?                     |
-| [Recycle Bin](basic/recycle-bin.md) | How to recover deleted files?                              |
-| [Cache](basic/cache.md)             | How to clear server side cache to update website contents? |
-| [Search Engine Optimization](basic/search-engine-optimization)| How to declare or define the website for search engine? |
-| [Translation](basic/translation.md) | How to update the interface text in multi-language? |
+| [Login](login.md)             | Login to the CMS                                           |
+| [Search](search.md)           | How to find contents in the CMS?                           |
+| [Versioning](versioning.md)   | How to rollback the modification?                          |
+| [Scheduling](scheduling.md)   | How to publish/unpublish the contents?                     |
+| [Recycle Bin](recycle-bin.md) | How to recover deleted files?                              |
+| [Cache](cache.md)             | How to clear server side cache to update website contents? |
+| [Search Engine Optimization](search-engine-optimization)| How to declare or define the website for search engine? |
+| [Translation](translation.md) | How to update the interface text in multi-language? |

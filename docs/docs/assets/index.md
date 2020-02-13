@@ -11,11 +11,11 @@ Here are some important features:
 
 | Subjects                                                | Descriptions                                                            |
 | ------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [Upload Assets](assets/upload-assets.md)                     | How to upload assets?                |
-| [Replace Asset](assets/replace-asset.md)                     | How to upload new version assets?                |
-| [Download Assets](assets/download-assets.md)                     | How to download assets?            | 
-| [Custom Metadata](assets/custom-metadata.md)           | How to custom the metadata?                       |
-| [Get the asset's info](assets/assets-info.md) | How to get the assets full path or more info?                                 |
-| [Batch processing](assets/batch-process.md)                       | How to process multi assets? |
-| [Rollback and Restore](assets/version.md)                   | How to rollback/restore the asset? |
-| [Scheduling](assets/schedule.md)                   | How to plan a list of action on these assets? |
+| [Upload Assets](upload-assets.md)                     | How to upload assets?                |
+| [Replace Asset](replace-asset.md)                     | How to upload new version assets?                |
+| [Download Assets](download-assets.md)                     | How to download assets?            | 
+| [Custom Metadata](custom-metadata.md)           | How to custom the metadata?                       |
+| [Get the asset's info](assets-info.md) | How to get the assets full path or more info?                                 |
+| [Batch processing](batch-process.md)                       | How to process multi assets? |
+| [Rollback and Restore](version.md)                   | How to rollback/restore the asset? |
+| [Scheduling](schedule.md)                   | How to plan a list of action on these assets? |
