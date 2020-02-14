@@ -4,6 +4,11 @@ site_description: "Welcome to the HKSYU CMS user handbook. This document shows y
 site_author: https://designquest.com.hk
 copyright: "Design Quest Limited"
 google_analytics: ['UA-395198-1','designquest.com.hk']
+theme: readthedocs
+plugins:
+    - search
+#    - mk2pdf-export:
+#        combined: true
 nav:
     - Home: index.md
     - Basic: 
@@ -39,6 +44,7 @@ nav:
         - News: data-objects/news.md
         - Events: data-objects/events.md
         - Staffs: data-objects/staffs.md
+        - Students Sharing: data-objects/sharing-students.md
         - Gallery: data-objects/gallery.md
         - Import/Export Objects: data-objects/import-export.md
     - Forms: forms/index.md
@@ -48,4 +54,4 @@ nav:
         - Users and Roles: administration/users.md
         - Website Managements: administration/websites.md
 
-theme: readthedocs
+

@@ -14,6 +14,11 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
 4. Install mkdocs
    `pip install mkdocs`
 
+## Install mk2pdf-export plugin
+   pip install mkdocs-mk2pdf-plugin
+   brew install pandoc
+   brew cask install mactex-no-gui
+
 ## Start
 1. Active the vitral environment
    `source .env/bin/activate`
